@@ -1,0 +1,1 @@
+pyinstaller --onefile -i icon.png --noconsole --add-data "D:\скрипты\TLP\vlc\plugins;plugins" --add-binary "D:\скрипты\TLP\libvlccore.dll;." --add-binary "D:\скрипты\TLP\libvlc.dll;." "TLP[release]2.py"
