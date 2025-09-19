@@ -18,5 +18,5 @@ Player window stays on top of all other windows. <br>
 The executable was tested on Windows 10 (no problems). <br>
 ... You can also navigate between tracks. <br>
 And the code is completely open - feel free to modify it, add your own, or study it in the detailed comments. <br>
- <img src="/TLP.jpg" alt="TLP" style="width:200px;margin-right:10px;">
-    <img src="/TLP2.jpg" alt="TLP2" style="width:200px;">
+ <img src="/TLP.jpg" alt="TLP">
+ <img src="/TLP2.jpg" alt="TLP2">
